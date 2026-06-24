@@ -38,7 +38,7 @@ Shogi is game like chess.
 
 (14) Test.swift : Functions for testing.
 
-(15) TT.swifto :Functions for transposition table.
+(15) TT.swift :Functions for transposition table.
 
 ## Operating environment
 
